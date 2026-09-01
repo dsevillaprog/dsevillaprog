@@ -17,15 +17,6 @@ Here are some ideas to get you started:
 <!DOCTYPE html>
 <html lang="es-ES">
 <head>
-    <meta charset="UTF-8">
-    <title>𝔻𝕊𝕖𝕧𝕚𝕝𝕝𝕒ℙ𝕣𝕠𝕘 | Página de Presentación</title>
-    <meta name="author" content="𝓓𝓢𝓮𝓿𝓲𝓵𝓵𝓪𝓟𝓻𝓸𝓰 © ">
-    <meta name="artist" content="ᗪᔕᵉᵛⁱˡˡᵃᑭʳᵒᵍ">
-    <meta name="url" content="https://github.com/dsevillaprog">
-    <meta name="instrument" content="🄱 🄰 🅂 🄷 + 🄷 🆃 🄼 🅻  & 🄲 🆂 🅂 ">
-    <meta name="copyright" content="𝓓𝓢𝓮𝓿𝓲𝓵𝓵𝓪𝓟𝓻𝓸𝓰 © 2025 Todos los Derechos Reservados">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" type="image/x-icon" href="img/cmd.gif">
     <style>
         /* Variables personalizadas */
         :root {

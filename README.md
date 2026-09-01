@@ -35,9 +35,9 @@ Here are some ideas to get you started:
         <hr>
             <h2 class="proyectos">Aprendizaje Online</h2>
             <!-- OverTheWire - Bandit -->
-                <img class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script">
-                <img class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="Linux">
-                <h4><a href="https://overthewire.org/wargames/bandit/" target="_blank"><img class="img-logo"
+                <img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script">
+                <img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="Linux">
+                <h4><a href="https://overthewire.org/wargames/bandit/" target="_blank"><img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;"
                             src="../../../CURSO-CSS/blob/main/Ejercicio2/img/otw.png" alt="OverTheWire">Bandit</a></h4>
                 <p> - CTF escalable en el que se aprenden el uso de comandos básicos de Linux como:</p>
                 <p> ls, cd, cat, file, man, du, find, grep, sort, uniq, base64, tr, tar, gzip, bzip2, etc.</p>
@@ -52,9 +52,9 @@ Here are some ideas to get you started:
                     <img class="scale-1 img-proyect-width" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/bandit.png" alt="overthewire-bandit">
             <br>
             <!-- OverTheWire - Natas -->
-                <img class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script">
-                <img class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="Linux">
-                <h4><a href="https://overthewire.org/wargames/natas/" target="_blank"><img class="img-logo"
+                <img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script">
+                <img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="Linux">
+                <h4><a href="https://overthewire.org/wargames/natas/" target="_blank"><img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;"
                             src="../../../CURSO-CSS/blob/main/Ejercicio2/img/otw.png" alt="OverTheWire">Natas</a></h4>
                 <p> - CTF escalable en el que se aprenden técnicas de Hacking Web:</p>
                 <p> - Lo intenté sin ayuda y conseguí llegar al nivel 4, finalmente tuve que buscar un Writeup y
@@ -65,10 +65,10 @@ Here are some ideas to get you started:
                     <img class="scale-1 img-proyect-width" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/natas.png" alt="overthewire-natas">
             <br>
             <!-- HackTheBox -->
-                <img class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script">
-                <img class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="Linux">
-                <img class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/win2.png" alt="Windows">
-                <h4><a href="https://www.hackthebox.com/" target="_blank"><img class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/htb.png"
+                <img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script">
+                <img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="Linux">
+                <img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/win2.png" alt="Windows">
+                <h4><a href="https://www.hackthebox.com/" target="_blank"><img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/htb.png"
                             alt="htb"></a></h4>
                 <p> - Plataforma online de Ciberseguridad y Hacking Ético</p>
                 <p> - Laboratorios de pruebas y retos simulando entornos reales.</p>
@@ -80,11 +80,11 @@ Here are some ideas to get you started:
             <hr>
             <h2 class="proyectos">Proyectos Personales</h2>
             <!-- castDrop.py -->
-                <a href="https://github.com/dsevillaprog/Shell-Scripts/castDrop" target="_blank"><img class="img-logo"
+                <a href="https://github.com/dsevillaprog/Shell-Scripts/castDrop" target="_blank"><img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;"
                         src="../../../CURSO-CSS/blob/main/Ejercicio2/img/python.png" alt="Python" title="castDrop.py"></a>
-                <a href="https://github.com/dsevillaprog/Shell-Scripts/castDrop" target="_blank"><img class="img-logo"
+                <a href="https://github.com/dsevillaprog/Shell-Scripts/castDrop" target="_blank"><img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;"
                         src="../../../CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Termux" title="Termux"></a>
-                <img class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/under_construction.png" alt="under_construction">
+                <img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/under_construction.png" alt="under_construction">
                 <h4><a href="https://github.com/dsevillaprog/Shell-Scripts/castDrop" target="_blank">castDrop.py</a>
                 </h4>
                 <p> - Aplicación de control para dispositivos ChromeCast (Linux/Termux).</p>
@@ -100,8 +100,8 @@ Here are some ideas to get you started:
             <br>
             <!-- cve_monitor.py -->
                 <a href="https://github.com/dsevillaprog/Shell-Scripts/cve_monitor" target="_blank"><img
-                        class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/python.png" alt="Python" title="cve_monitor.py"></a>
-                <a href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img class="img-logo"
+                        style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/python.png" alt="Python" title="cve_monitor.py"></a>
+                <a href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;"
                         src="../../../CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script" title="Shell-Scripts"></a>
                 <h4><a href="https://github.com/dsevillaprog/Shell-Scripts/cve_monitor" target="_blank">cve_monitor.py /
                         cve_monitor_LIST.py</a></h4>
@@ -118,12 +118,12 @@ Here are some ideas to get you started:
                     <img class="img-proyect scale-L" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/cve_monitor-t.png" alt="cve_monitor_bot">
             <br>
             <!-- Name_cleaner.sh / .py -->
-                <a href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img class="img-logo"
+                <a href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;"
                         src="../../../CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script" title="Shell-Scripts"></a>
                 <a href="https://github.com/dsevillaprog/Shell-Scripts/Name_cleaner.sh" target="_blank"><img
-                        class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="Name_cleaner.sh" title="Name_cleaner.sh"></a>
+                        style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="Name_cleaner.sh" title="Name_cleaner.sh"></a>
                 <a href="https://github.com/dsevillaprog/Shell-Scripts/Name_cleaner.py" target="_blank"><img
-                        class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/python.png" alt="Python" title="Name_cleaner.py"></a>
+                        style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/python.png" alt="Python" title="Name_cleaner.py"></a>
                 <h4><a href="https://github.com/dsevillaprog/Shell-Scripts/Name_cleaner.sh"
                         target="_blank">Name_cleaner.sh</a><a
                         href="https://github.com/dsevillaprog/Shell-Scripts/Name_cleaner.py" target="_blank"> / .py</a>
@@ -139,9 +139,9 @@ Here are some ideas to get you started:
                     <img class="img-proyect scale" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/Name_cleaner.gif" alt="Name_cleaner">
             <br>
             <!-- logFilter.sh -->
-                <a href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img class="img-logo"
+                <a href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;"
                         src="../../../CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script" title="Shell-Scripts"></a>
-                <a href="https://github.com/dsevillaprog/Shell-Scripts/logFilter" target="_blank"><img class="img-logo"
+                <a href="https://github.com/dsevillaprog/Shell-Scripts/logFilter" target="_blank"><img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;"
                         src="../../../CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="logFilter.sh" title="logFilter.sh"></a>
                 <h4><a href="https://github.com/dsevillaprog/Shell-Scripts/logFilter" target="_blank">logFilter.sh</a>
                 </h4>
@@ -156,11 +156,11 @@ Here are some ideas to get you started:
                     <img class="img-proyect scale-1-L" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/logFilter-1.png" alt="logFilter.sh">
             <br>
             <!-- curl_dump.sh -->
-                <a href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img class="img-logo"
+                <a href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;"
                         src="../../../CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script" title="Shell-Scripts"></a>
-                <a href="https://github.com/dsevillaprog/Shell-Scripts/curl_dump" target="_blank"><img class="img-logo"
+                <a href="https://github.com/dsevillaprog/Shell-Scripts/curl_dump" target="_blank"><img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;"
                         src="../../../CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="curl_dump.sh" title="curl_dump.sh"></a>
-                <img class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/under_construction.png" alt="under_construction">
+                <img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/under_construction.png" alt="under_construction">
                 <h4><a href="https://github.com/dsevillaprog/Shell-Scripts/curl_dump" target="_blank">curl_dump.sh</a>
                 </h4>
                 <p> - Descarga y extrae direcciones URL del código de una URL o de una lista.</p>
@@ -172,12 +172,12 @@ Here are some ideas to get you started:
                 <!--     <img class="img-proyect scale-1-L" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/curl_dump-1.png" alt="curl_dump.sh"> -->
             <br>
             <!-- Media_converter.sh / .py -->
-                <a href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img class="img-logo"
+                <a href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;"
                         src="../../../CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script" title="Shell-Scripts"></a>
                 <a href="https://github.com/dsevillaprog/Shell-Scripts/Media_converter.sh" target="_blank"><img
-                        class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="Media_converter.sh" title="Media_converter.sh"></a>
+                        style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="Media_converter.sh" title="Media_converter.sh"></a>
                 <a href="https://github.com/dsevillaprog/Shell-Scripts/Media_converter.py" target="_blank"><img
-                        class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/python.png" alt="Python" title="Media_converter.py"></a>
+                        style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/python.png" alt="Python" title="Media_converter.py"></a>
                 <h4><a href="https://github.com/dsevillaprog/Shell-Scripts/Media_converter.sh"
                         target="_blank">Media_converter.sh</a><a
                         href="https://github.com/dsevillaprog/Shell-Scripts/Media_converter.py" target="_blank"> /
@@ -192,9 +192,9 @@ Here are some ideas to get you started:
                     <img class="img-proyect scale-L" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/Media_converter04.png" alt="Media_converter2">
             <br>
             <!-- DShtb.sh -->
-                <a href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img class="img-logo"
+                <a href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;"
                         src="../../../CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script" title="Shell-Scripts"></a>
-                <a href="https://github.com/dsevillaprog/Shell-Scripts/DShtb" target="_blank"><img class="img-logo"
+                <a href="https://github.com/dsevillaprog/Shell-Scripts/DShtb" target="_blank"><img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;"
                         src="../../../CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="DShtb.sh" title="DShtb.sh"></a>
                 <h4><a href="https://github.com/dsevillaprog/Shell-Scripts/DShtb" target="_blank">DShtb.sh</a></h4>
                 <p> - Aplicación con múltiples herramientas de análisis y auditoría.</p>
@@ -206,9 +206,9 @@ Here are some ideas to get you started:
                     <img class="img-proyect scale-1-L" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/DShtb_mx.png" alt="DShtb.sh mx">
             <br>
             <!-- img_convert.sh -->
-                <img class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script">
-                <img class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="img_convert.sh">
-                <img class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/under_construction.png" alt="under_construction">
+                <img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script">
+                <img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="img_convert.sh">
+                <img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/under_construction.png" alt="under_construction">
                 <h4>img_convert.sh</h4>
                 <p> - Recorta, redimensiona, cambia de formato, y aplica múltiples filtros y efectos a las imágenes de
                     una carpeta.</p>
@@ -218,9 +218,9 @@ Here are some ideas to get you started:
                     <img class="img-proyect scale-L" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/img_convert2.png" alt="img_convert2">
             <br>
             <!-- Sed_loop-R.sh -->
-                <a href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img class="img-logo"
+                <a href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;"
                         src="../../../CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script" title="Shell-Scripts"></a>
-                <a href="https://github.com/dsevillaprog/Shell-Scripts/Sed_loop-R" target="_blank"><img class="img-logo"
+                <a href="https://github.com/dsevillaprog/Shell-Scripts/Sed_loop-R" target="_blank"><img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;"
                         src="../../../CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="Sed_lopp-R.sh" title="Sed_loop-R.sh"></a>
                 <h4><a href="https://github.com/dsevillaprog/Shell-Scripts/Sed_loop-R" target="_blank">Sed_loop-R.sh</a>
                 </h4>
@@ -242,13 +242,13 @@ Here are some ideas to get you started:
                     <img class="img-sed scale-L" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/Sed_loop-R6.png" alt="Sed_lopp-R6">
             <br>
             <!-- Roli-Sounds .sh / .html -->
-                <a href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img class="img-logo"
+                <a href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;"
                         src="../../../CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script" title="Shell-Scripts"></a>
                 <a href="https://github.com/dsevillaprog/Shell-Scripts/Roli-Sounds" target="_blank"><img
-                        class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="Roli-Sounds.sh" title="Roli-Sounds.sh"></a>
-                <a href="../../Curso-Formularios/Ejercicio6/index.html" target="_blank"><img class="img-logo"
+                        style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="Roli-Sounds.sh" title="Roli-Sounds.sh"></a>
+                <a href="../../Curso-Formularios/Ejercicio6/index.html" target="_blank"><img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;"
                         src="../../../CURSO-CSS/blob/main/Ejercicio2/img/logo-html.png" alt="Roli-Sounds.html" title="Roli-Sounds.html"></a>
-                <img class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/under_construction.png" alt="under_construction">
+                <img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/under_construction.png" alt="under_construction">
                 <h4><a href="https://github.com/dsevillaprog/Shell-Scripts/Roli-Sounds"
                         target="_blank">Roli-Sounds.sh</a><a href="../../Curso-Formularios/Ejercicio6/index.html"
                         target="_blank"> / .html</a></h4>
@@ -261,7 +261,7 @@ Here are some ideas to get you started:
                     <img class="img-proyect scale-L" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/Roli-Sounds.png" alt="Roli-Sounds.html">
             <br>
             <!-- VR-D2Pro Circuit Bending -->
-                <img class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/logo-circuit.png" alt="Circuit Bending">
+                <img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/logo-circuit.png" alt="Circuit Bending">
                 <h4>Eachine VR-D2Pro Circuit Bending</h4>
                 <p> - Modificación de la electrónica de las gafas de FPV Eachine VR-D2Pro.</p>
                 <p> - Se le añaden conectores de entrada de video RCA y salida de audio Jack 3.5.</p>
@@ -269,7 +269,7 @@ Here are some ideas to get you started:
                     <img class="img-proyect scale" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/vrd2pro.png" alt="VR-D2Pro Circuit Bending">
             <br>
             <!-- Casio SA-1 Circuit Bending -->
-                <img class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/logo-circuit.png" alt="Circuit Bending">
+                <img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/logo-circuit.png" alt="Circuit Bending">
                 <h4>Casio SA-1 Circuit Bending </h4>
                 <p> - Modificación de la electrónica del teclado Casio SA-1.</p>
                 <p> - Se le añaden switch de octavas y 3 niveles de reverb base con modulación mediante LDR.</p>
@@ -277,7 +277,7 @@ Here are some ideas to get you started:
                     <img class="img-proyect scale" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/sa-1-in.jpg" alt="Casio SA-1">
                     <img class="img-proyect scale-L" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/sa-1.jpg" alt="Casio SA-1 Circuit Bending">
             <!-- Alarma GSM - Arduino -->
-                <img class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/arduino-logo.jpg" alt="Alarma_GSM.ino">
+                <img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/arduino-logo.jpg" alt="Alarma_GSM.ino">
                 <h4>Alarma_GSM.ino</h4>
                 <p> - Alarma realizada en Arduino con comunicación por módulo GSM.</p>
                 <p> - Permite conectar multitud de sensores y actuadores para su monitorización y control, accesos,
@@ -288,9 +288,9 @@ Here are some ideas to get you started:
                     <img class="img-proyect scale-L" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/arduino-gsm.jpg" alt="Módulo SIM900">
             <br>
             <!-- Autotube.sh -->
-                <a href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img class="img-logo"
+                <a href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;"
                         src="../../../CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script" title="Shell-Scripts"></a>
-                <a href="https://github.com/dsevillaprog/Shell-Scripts/Autotube" target="_blank"><img class="img-logo"
+                <a href="https://github.com/dsevillaprog/Shell-Scripts/Autotube" target="_blank"><img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;"
                         src="../../../CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="Autotube.sh" title="Autotube.sh"></a>
                 <h4><a href="https://github.com/dsevillaprog/Shell-Scripts/Autotube" target="_blank">Autotube.sh</a>
                 </h4>
@@ -303,8 +303,8 @@ Here are some ideas to get you started:
                     <img class="img-proyect scale" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/Autotube.png" alt="Autotube.sh">
             <br>
             <!-- USB PorCotilla -->
-                <img class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script">
-                <img class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/win2.png" alt="porcotilla.cmd">
+                <img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script">
+                <img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/win2.png" alt="porcotilla.cmd">
                 <h4>USB PorCotilla</h4>
                 <p> - Conjunto de scripts (.cmd, .bat y .vbs), camuflados en una memoria USB con una "Carpeta Cebo" que
                     los inicia al intentar abrirla.</p>
@@ -331,14 +331,14 @@ Here are some ideas to get you started:
                     <img class="img-sed scale-L" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/porcotilla-3.png" alt="porcotilla3">
             <br>
             <!-- BUSCADORES-WEB -->
-                <a href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img class="img-logo"
+                <a href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;"
                         src="../../../CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script" title="Shell-Scripts"></a>
                 <a href="https://github.com/dsevillaprog/Shell-Scripts/BUSCADORES-WEB.bat" target="_blank"><img
-                        class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/win2.png" alt="BUSCADORES-WEB.bat" title="BUSCADORES-WEB.bat"></a>
+                        style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/win2.png" alt="BUSCADORES-WEB.bat" title="BUSCADORES-WEB.bat"></a>
                 <a href="https://github.com/dsevillaprog/Shell-Scripts/BUSCADORES-WEB.sh" target="_blank"><img
-                        class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="BUSCADORES-WEB.sh" title="BUSCADORES-WEB.sh"></a>
+                        style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="BUSCADORES-WEB.sh" title="BUSCADORES-WEB.sh"></a>
                 <a href="../../Curso-Formularios/buscadores-web/BUSCADORES-WEB.html" target="_blank"><img
-                        class="img-logo" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/logo-html.png" alt="HTML" title="BUSCADORES-WEB.html"></a>
+                        style="width: auto; max-height: 5vh; margin: 1%; border-radius: 6px;" src="../../../CURSO-CSS/blob/main/Ejercicio2/img/logo-html.png" alt="HTML" title="BUSCADORES-WEB.html"></a>
                 <h4><a href="../../Curso-Formularios/buscadores-web/BUSCADORES-WEB.html"
                         target="_blank">Buscadores-web</a><a
                         href="https://github.com/dsevillaprog/Shell-Scripts/BUSCADORES-WEB.bat" target="_blank">

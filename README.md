@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<div style="display: flex; align-items: center; justify-items: center justify-content: space-around;">
+<div style="display: flex; align-items: center; justify-items: center; justify-content: space-around;">
     <p style="font-size: 1.1rem; line-height: 2rem; margin: auto; text-align: center; color: #1d1753;">Programador autodidacta; comencé a programar con scripts en Batch y Visual Basic muy simples para Windows, de ahí pasé a proyectos de Arduino, y desde hace unos años realizo programas y scripts en Bash para Linux, actualmente estoy aprendiendo Python.<br>Decidí instalar Linux porque siempre tuve curiosidad por probar un sistema operativo de código abierto, y, ahora que sabía algo de programación, podía crear y personalizar herramientas a mi gusto. Seguí varios libros de programación en Bash, realicé muchos de los ejercicios, pero siempre me atascaba en algún punto y acababa por buscar la información por otros medios. Fué así como descubrí y me empezó a interesar el campo de la Ciberseguridad, ya que el mejor contenido que encontré para programar en Bash y aprender sobre Linux estaba enfocado al Hacking Ético y a la Ciberseguridad.</p>
     <hr>
     <h2>Aprendizaje Online</h2>
@@ -45,9 +44,7 @@ Here are some ideas to get you started:
     <p> - Lo intenté sin ayuda y conseguí llegar al nivel 4, finalmente tuve que buscar un Writeup y descubrí Burpsuite.</p>
     <p> - Estuve un tiempo viendo tutoriales de Burpsuite y Caido, y lo aparqué para comenzar este curso de Elaboración de Páginas Web.</p>
     <br>
-    <div style:"display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around;">
-        <img style="height: auto; width: 350; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/natas.png" alt="overthewire-natas">
-    </div>
+    <img style="height: auto; width: 350; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/natas.png" alt="overthewire-natas">
     <br>
     <hr>
     <br>
@@ -60,16 +57,16 @@ Here are some ideas to get you started:
     <p> - Laboratorios de pruebas y retos simulando entornos reales.</p>
     <p> - He realizado todas las máquinas gratuitas de nivel fácil, y varios retos Sherlock, estoy empezando el nivel medio.</p>
     <br>
-    <div style:"display: flex; align-items: center; justify-content: space-around;">
-        <img style="height: auto; width: 300; display: flex; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_machines.png" alt="htb machines">
-        <img style="height: 400; width: auto; display: flex; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_streak.png" alt="htb streak">
-    </div>
+    <img style="height: auto; width: 300; display: flex; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_machines.png" alt="htb machines">
+    <img style="height: 450; width: auto; display: flex; align-items: center; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_streak.png" alt="htb streak">
     <hr>
     <br>
     <h2>Proyectos Personales</h2>
     <!-- castDrop.py -->
     <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Shell-Scripts/castDrop" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/python.png" alt="Python" title="castDrop.py"></a>
-    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/castDrop" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/cmd-g.png" alt="Termux" title="Termux"></a>
+    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/castDrop" target="_blank">
+        <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/cmd-g.png" alt="Termux" title="Termux">
+    </a>
     <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/under_construction.png" alt="under_construction">
     <h4><a style="text-decoration: none;" href="https://github.com/dsevillaprog/castDrop" target="_blank">castDrop.py</a></h4>
     <p> - Aplicación de control para dispositivos ChromeCast (Linux/Termux).</p>
@@ -98,5 +95,4 @@ Here are some ideas to get you started:
     <img style="height: 450px; width: auto; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/cve_monitor.png" alt="cve_monitor.py">
     <br>
     <hr>
-    <br>
 </div>

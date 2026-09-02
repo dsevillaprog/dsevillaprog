@@ -61,7 +61,7 @@ Here are some ideas to get you started:
     <br>
     <div style:"display: flex; align-items: center; justify-content: space-around;">
         <img style="height: auto; width: 300; display: flex; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_machines.png" alt="htb machines">
-        <img style="height: 300; width: auto; display: flex; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_streak.png" alt="htb streak">
+        <img style="height: 400; width: auto; display: flex; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_streak.png" alt="htb streak">
     </div>
     <hr>
     <br>
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
     <p> - Opciones de control multimedia: Pausar/Reanudar, Forzar Cierre, Subir/Bajar Volumen, Mutear/Desmutear, Inyectar Contenido, ...</p>
     <p> - Opciones de control Bluetooth (*en pruebas)</p>
     <br>
-    <img style="height: auto; width: 350px; margin: 50px; border-radius: 6px; justify-content: space-around;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/castDrop.png" alt="castDrop.py">
+    <img style="height: 400; width: auto; margin: 50px; border-radius: 6px; justify-content: space-around;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/castDrop.png" alt="castDrop.py">
     <br>
     <hr>
     <br>
@@ -94,7 +94,7 @@ Here are some ideas to get you started:
     <p>⠀⠀ ・Muestra métricas del CVE y envía la alerta al ID de Telegram si está configurado</p>
     <p>⠀⠀ ・Guarda el CVE en la base de datos local</p>
     <br>
-    <img style="height: 350px; width: auto; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/cve_monitor.png" alt="cve_monitor.py">
+    <img style="height: 450px; width: auto; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/cve_monitor.png" alt="cve_monitor.py">
     <br>
     <hr>
     <br>

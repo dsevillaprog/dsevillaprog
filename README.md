@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <div style="display: flex; align-items: center; justify-items: center justify-content: space-around;">
     <p style="font-size: 1.1rem; line-height: 2rem; margin: auto; text-align: center; color: #1d1753;">Programador autodidacta; comencé a programar con scripts en Batch y Visual Basic muy simples para Windows, de ahí pasé a proyectos de Arduino, y desde hace unos años realizo programas y scripts en Bash para Linux, actualmente estoy aprendiendo Python.<br>Decidí instalar Linux porque siempre tuve curiosidad por probar un sistema operativo de código abierto, y, ahora que sabía algo de programación, podía crear y personalizar herramientas a mi gusto. Seguí varios libros de programación en Bash, realicé muchos de los ejercicios, pero siempre me atascaba en algún punto y acababa por buscar la información por otros medios. Fué así como descubrí y me empezó a interesar el campo de la Ciberseguridad, ya que el mejor contenido que encontré para programar en Bash y aprender sobre Linux estaba enfocado al Hacking Ético y a la Ciberseguridad.</p>
     <hr>
-    <br>
     <h2>Aprendizaje Online</h2>
     <!-- OverTheWire - Bandit -->
     <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/cmd-g.png" alt="Script">
@@ -60,7 +60,6 @@ Here are some ideas to get you started:
         <img style="height: auto; width: 350; display: flex; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_machines.png" alt="htb machines">
         <img style="height: auto; width: 400; display: flex; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_streak.png" alt="htb streak">
     </div>
-    <hr>
     <h2>Proyectos Personales</h2>
     <!-- castDrop.py -->
     <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Shell-Scripts/castDrop" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/python.png" alt="Python" title="castDrop.py"></a>
@@ -75,5 +74,23 @@ Here are some ideas to get you started:
     <p> - Opciones de control Bluetooth (*en pruebas)</p>
     <br>
     <img style="height: 350px; width: auto; margin: 50px; border-radius: 6px; justify-content: space-around;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/castDrop.png" alt="castDrop.py">
+    <br>
+    <hr>
+    <br>
+    <!-- cve_monitor.py -->
+    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/cve_monitor" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/python.png" alt="Python" title="cve_monitor.py"></a>
+    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/cmd-g.png" alt="Script" title="Shell-Scripts"></a>
+    <h4><a style="text-decoration: none;" href="https://github.com/dsevillaprog/cve_monitor" target="_blank">cve_monitor.py / cve_monitor_LIST.py</a></h4>
+    <p> - Aplicación/bot de consulta y filtrado de alertas de seguridad (CVE).</p>
+    <p> - Puede funcionar integrando un bot de Telegram o por consola.</p>
+    <p>⠀⠀ ・Busca *linux en los últimos CVE modificados en nist.gov (cve_monitor_LIST.py: busca iterando sobre listas definidas)</p>
+    <p>⠀⠀ ・Busca si disponen de parche y/o exploit</p>
+    <p>⠀⠀ ・Comprueba que no estén ya registrados en la base de datos local</p>
+    <p>⠀⠀ ・Muestra métricas del CVE y envía la alerta al ID de Telegram si está configurado</p>
+    <p>⠀⠀ ・Guarda el CVE en la base de datos local</p>
+    <br>
+    <img style="height: 350px; width: auto; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/cve_monitor.png" alt="cve_monitor.py">
+    <br>
+    <hr>
     <br>
 </div>

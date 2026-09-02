@@ -20,8 +20,8 @@ Here are some ideas to get you started:
     <hr>
     <h2>Aprendizaje Online</h2>
     <!-- OverTheWire - Bandit -->
-    <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/cmd-g.png" alt="Script">
-    <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/gnu-g.png" alt="Linux">
+    <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/cmd-g.png" alt="Script">&MediumSpace;
+    <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/gnu-g.png" alt="Linux">&MediumSpace;
     <h4><a style="text-decoration: none;" href="https://overthewire.org/wargames/bandit/" target="_blank"><img style="width: auto; height: 35px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/otw.png" alt="OverTheWire">Bandit</a></h4>
     <p> - CTF escalable en el que se aprenden el uso de comandos básicos de Linux como:</p>
     <p> ls, cd, cat, file, man, du, find, grep, sort, uniq, base64, tr, tar, gzip, bzip2, etc.</p>
@@ -37,8 +37,8 @@ Here are some ideas to get you started:
     <hr>
     <br>
     <!-- OverTheWire - Natas -->
-    <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/cmd-g.png" alt="Script">
-    <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/gnu-g.png" alt="Linux">
+    <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/cmd-g.png" alt="Script">&MediumSpace;
+    <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/gnu-g.png" alt="Linux">&MediumSpace;
     <h4><a style="text-decoration: none;" href="https://overthewire.org/wargames/natas/" target="_blank"><img style="width: auto; height: 35px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/otw.png" alt="OverTheWire">Natas</a></h4>
     <p> - CTF escalable en el que se aprenden técnicas de Hacking Web:</p>
     <p> - Lo intenté sin ayuda y conseguí llegar al nivel 4, finalmente tuve que buscar un Writeup y descubrí Burpsuite.</p>
@@ -49,25 +49,25 @@ Here are some ideas to get you started:
     <hr>
     <br>
     <!-- HackTheBox -->
-    <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/cmd-g.png" alt="Script">
-    <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/gnu-g.png" alt="Linux">
-    <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/win2.png" alt="Windows">
+    <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/cmd-g.png" alt="Script">&MediumSpace;
+    <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/gnu-g.png" alt="Linux">&MediumSpace;
+    <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/win2.png" alt="Windows">&MediumSpace;
     <h4><a style="text-decoration: none;" href="https://www.hackthebox.com/" target="_blank"><img style="width: auto; height: 35px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb.png" alt="htb"></a></h4>
     <p> - Plataforma online de Ciberseguridad y Hacking Ético</p>
     <p> - Laboratorios de pruebas y retos simulando entornos reales.</p>
     <p> - He realizado todas las máquinas gratuitas de nivel fácil, y varios retos Sherlock, estoy empezando el nivel medio.</p>
     <br>
-    <img style="height: auto; width: 300; display: flex; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_machines.png" alt="htb machines">
-    <img style="height: 450; width: auto; display: flex; align-items: center; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_streak.png" alt="htb streak">
+    <img style="height: auto; width: 250; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_machines.png" alt="htb machines">
+    <img style="height: 450; width: auto; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_streak.png" alt="htb streak">
     <hr>
     <br>
     <h2>Proyectos Personales</h2>
     <!-- castDrop.py -->
-    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Shell-Scripts/castDrop" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/python.png" alt="Python" title="castDrop.py"></a>
+    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Shell-Scripts/castDrop" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/python.png" alt="Python" title="castDrop.py"></a>&MediumSpace;
     <a style="text-decoration: none;" href="https://github.com/dsevillaprog/castDrop" target="_blank">
         <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/cmd-g.png" alt="Termux" title="Termux">
-    </a>
-    <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/under_construction.png" alt="under_construction">
+    </a>&MediumSpace;
+    <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/under_construction.png" alt="under_construction">&MediumSpace;
     <h4><a style="text-decoration: none;" href="https://github.com/dsevillaprog/castDrop" target="_blank">castDrop.py</a></h4>
     <p> - Aplicación de control para dispositivos ChromeCast (Linux/Termux).</p>
     <p> - Descubrimiento de dispositivos en red.</p>
@@ -76,13 +76,13 @@ Here are some ideas to get you started:
     <p> - Opciones de control multimedia: Pausar/Reanudar, Forzar Cierre, Subir/Bajar Volumen, Mutear/Desmutear, Inyectar Contenido, ...</p>
     <p> - Opciones de control Bluetooth (*en pruebas)</p>
     <br>
-    <img style="height: 400; width: auto; margin: 50px; border-radius: 6px; justify-content: space-around;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/castDrop.png" alt="castDrop.py">
+    <img style="height: 400; width: auto; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/castDrop.png" alt="castDrop.py">
     <br>
     <hr>
     <br>
     <!-- cve_monitor.py -->
-    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/cve_monitor" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/python.png" alt="Python" title="cve_monitor.py"></a>
-    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/cmd-g.png" alt="Script" title="Shell-Scripts"></a>
+    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/cve_monitor" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/python.png" alt="Python" title="cve_monitor.py"></a>&MediumSpace;
+    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/cmd-g.png" alt="Script" title="Shell-Scripts"></a>&MediumSpace;
     <h4><a style="text-decoration: none;" href="https://github.com/dsevillaprog/cve_monitor" target="_blank">cve_monitor.py / cve_monitor_LIST.py</a></h4>
     <p> - Aplicación/bot de consulta y filtrado de alertas de seguridad (CVE).</p>
     <p> - Puede funcionar integrando un bot de Telegram o por consola.</p>
@@ -92,7 +92,8 @@ Here are some ideas to get you started:
     <p>⠀⠀ ・Muestra métricas del CVE y envía la alerta al ID de Telegram si está configurado</p>
     <p>⠀⠀ ・Guarda el CVE en la base de datos local</p>
     <br>
-    <img style="height: 450px; width: auto; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/cve_monitor.png" alt="cve_monitor.py">
+    <img style="height: 400px; width: auto; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/cve_monitor.png" alt="cve_monitor.py">
     <br>
     <hr>
+    <br>
 </div>

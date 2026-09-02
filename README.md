@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <p> - La primera vez que lo completé, en la mayoría de niveles necesité seguir Writeups para conseguir las Flag,</p>
 <p> un par de años más tarde, y tras hacer varios laboratorios de <a href="https://www.hackthebox.com/">HackTheBox</a>, conseguí llegar al nivel 22 sin ayuda.</p>
 <div style:"display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around;">
-    <img style="height: auto; width: 400; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/bandit.png" alt="overthewire-bandit">
+    <img style="height: auto; width: 350; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/bandit.png" alt="overthewire-bandit">
 </div>
 <br>
 <!-- OverTheWire - Natas -->
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <p> - Estuve un tiempo viendo tutoriales de Burpsuite y Caido, y lo aparqué para comenzar este curso de Elaboración de Páginas Web.</p>
 <br>
 <div style:"display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around;">
-    <img style="height: auto; width: 400; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/natas.png" alt="overthewire-natas">
+    <img style="height: auto; width: 350; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/natas.png" alt="overthewire-natas">
 </div>
 <br>
 <!-- HackTheBox -->
@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 <p> - He realizado todas las máquinas gratuitas de nivel fácil, y varios retos Sherlock, estoy empezando el nivel medio.</p>
 <br>
 <div style:"display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around;">
-    <img style="height: 400px; display: flex; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_machines.png" alt="htb machines">
-    <img style="height: 400px; display: flex; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_streak.png" alt="htb streak">
+    <img style="height: auto; width: 400; display: flex; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_machines.png" alt="htb machines">
+    <img style="height: auto; width: 400; display: flex; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_streak.png" alt="htb streak">
 </div>
 <hr>
 <h2 style="display: flex; flex-direction: column; padding: 5%; color: rgb(241, 233, 247); text-shadow: #aeacaf;">Proyectos Personales</h2>
@@ -72,6 +72,21 @@ Here are some ideas to get you started:
 <p> - Opciones de control multimedia: Pausar/Reanudar, Forzar Cierre, Subir/Bajar Volumen, Mutear/Desmutear, Inyectar Contenido, ...</p>
 <p> - Opciones de control Bluetooth (*en pruebas)</p>
 <br>
-<img style="height: 300px; width: auto; margin: 50px; border-radius: 6px; justify-content: space-around;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/castDrop.png" alt="castDrop.py">
-<img style="height: 300px; width: auto; margin: 50px; border-radius: 6px; justify-content: space-around;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/castDrop-1.png" alt="castDrop.py">
+<img style="height: 350px; width: auto; margin: 50px; border-radius: 6px; justify-content: space-around;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/castDrop.png" alt="castDrop.py">
+<img style="height: 350px; width: auto; margin: 50px; border-radius: 6px; justify-content: space-around;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/castDrop-1.png" alt="castDrop.py">
+<br>
+<!-- cve_monitor.py -->
+<a style="text-decoration: none;" href="https://github.com/dsevillaprog/cve_monitor" target="_blank"><img style="width: 25px; height: 25px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/python.png" alt="Python" title="cve_monitor.py"></a>
+<a style="text-decoration: none;" href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img style="width: 25px; height: 25px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script" title="Shell-Scripts"></a>
+<h4><a style="text-decoration: none;" href="https://github.com/dsevillaprog/cve_monitor" target="_blank">cve_monitor.py / cve_monitor_LIST.py</a></h4>
+<p> - Aplicación/bot de consulta y filtrado de alertas de seguridad (CVE).</p>
+<p> - Puede funcionar integrando un bot de Telegram o por consola.</p>
+<p>⠀⠀ ・Busca *linux en los últimos CVE modificados en nist.gov (cve_monitor_LIST.py: busca iterando sobre listas definidas)</p>
+<p>⠀⠀ ・Busca si disponen de parche y/o exploit</p>
+<p>⠀⠀ ・Comprueba que no estén ya registrados en la base de datos local</p>
+<p>⠀⠀ ・Muestra métricas del CVE y envía la alerta al ID de Telegram si está configurado</p>
+<p>⠀⠀ ・Guarda el CVE en la base de datos local</p>
+<br>
+<img style="height: 350px; width: auto; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/cve_monitor.png" alt="cve_monitor.py">
+<img style="height: 350px; width: auto; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/cve_monitor-t.png" alt="cve_monitor_bot">
 <br>

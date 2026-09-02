@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br>
 <p> - La primera vez que lo completé, en la mayoría de niveles necesité seguir Writeups para conseguir las Flag,</p>
 <p> un par de años más tarde, y tras hacer varios laboratorios de <a href="https://www.hackthebox.com/">HackTheBox</a>, conseguí llegar al nivel 22 sin ayuda.</p>
-<div style:"display: flex; flex-wrap: wrap; align-items: center; justify-content: top;">
+<div style:"display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around;">
     <img style="height: auto; width: 400; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/bandit.png" alt="overthewire-bandit">
 </div>
 <br>
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <p> - Lo intenté sin ayuda y conseguí llegar al nivel 4, finalmente tuve que buscar un Writeup y descubrí Burpsuite.</p>
 <p> - Estuve un tiempo viendo tutoriales de Burpsuite y Caido, y lo aparqué para comenzar este curso de Elaboración de Páginas Web.</p>
 <br>
-<div style:"display: flex; flex-wrap: wrap; align-items: center; justify-content: top;">
+<div style:"display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around;">
     <img style="height: auto; width: 400; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/natas.png" alt="overthewire-natas">
 </div>
 <br>
@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 <p> - Laboratorios de pruebas y retos simulando entornos reales.</p>
 <p> - He realizado todas las máquinas gratuitas de nivel fácil, y varios retos Sherlock, estoy empezando el nivel medio.</p>
 <br>
-<div style:"display: flex; flex-wrap: wrap; align-items: center; justify-content: top;">
-    <img style="height: 400px; display: flex; flex-wrap: wrap; align-items: center; justify-content: top; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_machines.png" alt="htb machines">
-    <img style="height: 400px; display: flex; flex-wrap: wrap; align-items: center; justify-content: top; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_streak.png" alt="htb streak">
+<div style:"display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around; height: 400px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px">
+    <img style="height: 400px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_machines.png" alt="htb machines">
+    <img style="height: 400px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_streak.png" alt="htb streak">
 </div>
 <hr>
 <h2 style="display: flex; flex-direction: column; padding: 5%; color: rgb(241, 233, 247); text-shadow: #aeacaf;">Proyectos Personales</h2>

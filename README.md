@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <div style="display: flex; align-items: center; justify-items: center justify-content: space-around;">
     <p style="font-size: 1.1rem; line-height: 2rem; margin: auto; text-align: center; color: #1d1753;">Programador autodidacta; comencé a programar con scripts en Batch y Visual Basic muy simples para Windows, de ahí pasé a proyectos de Arduino, y desde hace unos años realizo programas y scripts en Bash para Linux, actualmente estoy aprendiendo Python.<br>Decidí instalar Linux porque siempre tuve curiosidad por probar un sistema operativo de código abierto, y, ahora que sabía algo de programación, podía crear y personalizar herramientas a mi gusto. Seguí varios libros de programación en Bash, realicé muchos de los ejercicios, pero siempre me atascaba en algún punto y acababa por buscar la información por otros medios. Fué así como descubrí y me empezó a interesar el campo de la Ciberseguridad, ya que el mejor contenido que encontré para programar en Bash y aprender sobre Linux estaba enfocado al Hacking Ético y a la Ciberseguridad.</p>
     <hr>
+    <br>
     <h2>Aprendizaje Online</h2>
     <!-- OverTheWire - Bandit -->
     <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/cmd-g.png" alt="Script">

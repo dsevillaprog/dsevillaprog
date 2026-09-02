@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <p> - La primera vez que lo completé, en la mayoría de niveles necesité seguir Writeups para conseguir las Flag,</p>
     <p> un par de años más tarde, y tras hacer varios laboratorios de <a href="https://www.hackthebox.com/">HackTheBox</a>, conseguí llegar al nivel 22 sin ayuda.</p>
     <div style:"display: flex; align-items: center; justify-content: space-around;">
-        <img style="height: auto; width: 350; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/bandit.png" alt="overthewire-bandit">
+        <img style="height: auto; width: 350px; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/bandit.png" alt="overthewire-bandit">
     </div>
     <br>
     <hr>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     <p> - Lo intenté sin ayuda y conseguí llegar al nivel 4, finalmente tuve que buscar un Writeup y descubrí Burpsuite.</p>
     <p> - Estuve un tiempo viendo tutoriales de Burpsuite y Caido, y lo aparqué para comenzar este curso de Elaboración de Páginas Web.</p>
     <br>
-    <img style="height: auto; width: 350; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/natas.png" alt="overthewire-natas">
+    <img style="height: auto; width: 350px; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/natas.png" alt="overthewire-natas">
     <br>
     <hr>
     <br>
@@ -57,8 +57,8 @@ Here are some ideas to get you started:
     <p> - Laboratorios de pruebas y retos simulando entornos reales.</p>
     <p> - He realizado todas las máquinas gratuitas de nivel fácil, y varios retos Sherlock, estoy empezando el nivel medio.</p>
     <br>
-    <img style="height: 250; width: auto; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_machines.png" alt="htb machines">
-    <img style="height: auto; width: 400; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_streak.png" alt="htb streak">
+    <img style="height: 250px; width: auto; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_machines.png" alt="htb machines">
+    <img style="height: auto; width: 400px; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_streak.png" alt="htb streak">
     <hr>
     <br>
     <h2>Proyectos Personales</h2>
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
     <p> - Opciones de control multimedia: Pausar/Reanudar, Forzar Cierre, Subir/Bajar Volumen, Mutear/Desmutear, Inyectar Contenido, ...</p>
     <p> - Opciones de control Bluetooth (*en pruebas)</p>
     <br>
-    <img style="height: 400; width: auto; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/castDrop.png" alt="castDrop.py">
+    <img style="height: 400px; width: auto; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/castDrop.png" alt="castDrop.py">
     <br>
     <hr>
     <br>

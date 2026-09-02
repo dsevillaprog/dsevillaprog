@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <!-- OverTheWire - Bandit -->
 <img class="scale" style="width: 25px; height: 25px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script">
 <img class="scale" style="width: 25px; height: 25px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="Linux">
-<h4><a style="text-decoration: none;" href="https://overthewire.org/wargames/bandit/" target="_blank"><img style="width: auto; height: 35px; margin: 1%; border-radius: 3px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/otw.png" alt="OverTheWire">Bandit</a></h4>
+<h4 style="text-decoration: none;"><a style="text-decoration: none;" href="https://overthewire.org/wargames/bandit/" target="_blank"><img style="width: auto; height: 35px; margin: 1%; border-radius: 3px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/otw.png" alt="OverTheWire">Bandit</a></h4>
 <p> - CTF escalable en el que se aprenden el uso de comandos básicos de Linux como:</p>
 <p> ls, cd, cat, file, man, du, find, grep, sort, uniq, base64, tr, tar, gzip, bzip2, etc.</p>
 <p> - A medida que avanzamos por los niveles, comienzan a verse comandos más complejos de redes y Ciberseguridad como:</p>

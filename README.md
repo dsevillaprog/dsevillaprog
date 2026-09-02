@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<div style="display: flex; align-items: center; justify-content: space-around;">
+<div style="display: flex; align-items: center; justify-items: center justify-content: space-around;">
     <p style="font-size: 1.1rem; line-height: 2rem; margin: auto; text-align: center; color: #1d1753;">Programador autodidacta; comencé a programar con scripts en Batch y Visual Basic muy simples para Windows, de ahí pasé a proyectos de Arduino, y desde hace unos años realizo programas y scripts en Bash para Linux, actualmente estoy aprendiendo Python.<br>Decidí instalar Linux porque siempre tuve curiosidad por probar un sistema operativo de código abierto, y, ahora que sabía algo de programación, podía crear y personalizar herramientas a mi gusto. Seguí varios libros de programación en Bash, realicé muchos de los ejercicios, pero siempre me atascaba en algún punto y acababa por buscar la información por otros medios. Fué así como descubrí y me empezó a interesar el campo de la Ciberseguridad, ya que el mejor contenido que encontré para programar en Bash y aprender sobre Linux estaba enfocado al Hacking Ético y a la Ciberseguridad.</p>
     <hr>
     <h2>Aprendizaje Online</h2>
     <!-- OverTheWire - Bandit -->
-    <img style="width: 25px; height: 25px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script">
-    <img style="width: 25px; height: 25px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="Linux">
+    <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/cmd-g.png" alt="Script">
+    <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/gnu-g.png" alt="Linux">
     <h4><a style="text-decoration: none;" href="https://overthewire.org/wargames/bandit/" target="_blank"><img style="width: auto; height: 35px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/otw.png" alt="OverTheWire">Bandit</a></h4>
     <p> - CTF escalable en el que se aprenden el uso de comandos básicos de Linux como:</p>
     <p> ls, cd, cat, file, man, du, find, grep, sort, uniq, base64, tr, tar, gzip, bzip2, etc.</p>
@@ -36,8 +35,8 @@ Here are some ideas to get you started:
     </div>
     <br>
     <!-- OverTheWire - Natas -->
-    <img style="width: 25px; height: 25px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script">
-    <img style="width: 25px; height: 25px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="Linux">
+    <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/cmd-g.png" alt="Script">
+    <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/gnu-g.png" alt="Linux">
     <h4><a style="text-decoration: none;" href="https://overthewire.org/wargames/natas/" target="_blank"><img style="width: auto; height: 35px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/otw.png" alt="OverTheWire">Natas</a></h4>
     <p> - CTF escalable en el que se aprenden técnicas de Hacking Web:</p>
     <p> - Lo intenté sin ayuda y conseguí llegar al nivel 4, finalmente tuve que buscar un Writeup y descubrí Burpsuite.</p>
@@ -48,9 +47,9 @@ Here are some ideas to get you started:
     </div>
     <br>
     <!-- HackTheBox -->
-    <img style="width: 25px; height: 25px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script">
-    <img style="width: 25px; height: 25px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="Linux">
-    <img style="width: 25px; height: 25px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/win2.png" alt="Windows">
+    <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/cmd-g.png" alt="Script">
+    <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/gnu-g.png" alt="Linux">
+    <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/win2.png" alt="Windows">
     <h4><a style="text-decoration: none;" href="https://www.hackthebox.com/" target="_blank"><img style="width: auto; height: 35px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb.png" alt="htb"></a></h4>
     <p> - Plataforma online de Ciberseguridad y Hacking Ético</p>
     <p> - Laboratorios de pruebas y retos simulando entornos reales.</p>
@@ -63,9 +62,9 @@ Here are some ideas to get you started:
     <hr>
     <h2>Proyectos Personales</h2>
     <!-- castDrop.py -->
-    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Shell-Scripts/castDrop" target="_blank"><img style="width: 25px; height: 25px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/python.png" alt="Python" title="castDrop.py"></a>
-    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/castDrop" target="_blank"><img style="width: 25px; height: 25px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Termux" title="Termux"></a>
-    <img style="width: 25px; height: 25px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/under_construction.png" alt="under_construction">
+    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Shell-Scripts/castDrop" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/python.png" alt="Python" title="castDrop.py"></a>
+    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/castDrop" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/cmd-g.png" alt="Termux" title="Termux"></a>
+    <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/under_construction.png" alt="under_construction">
     <h4><a style="text-decoration: none;" href="https://github.com/dsevillaprog/castDrop" target="_blank">castDrop.py</a></h4>
     <p> - Aplicación de control para dispositivos ChromeCast (Linux/Termux).</p>
     <p> - Descubrimiento de dispositivos en red.</p>

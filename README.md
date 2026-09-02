@@ -30,9 +30,8 @@ Here are some ideas to get you started:
     <br>
     <p> - La primera vez que lo completé, en la mayoría de niveles necesité seguir Writeups para conseguir las Flag,</p>
     <p> un par de años más tarde, y tras hacer varios laboratorios de <a href="https://www.hackthebox.com/">HackTheBox</a>, conseguí llegar al nivel 22 sin ayuda.</p>
-    <div style:"display: flex; align-items: center; justify-content: space-around;">
-        <img style="height: auto; width: 400px; margin: 50px; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/bandit.png" alt="overthewire-bandit">
-    </div>
+    <br>
+    <img style="height: auto; width: 400px; margin: 50px; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/bandit.png" alt="overthewire-bandit">
     <br>
     <hr>
     <br>
@@ -72,8 +71,6 @@ Here are some ideas to get you started:
     <p> - Opciones de control multimedia: Pausar/Reanudar, Forzar Cierre, Subir/Bajar Volumen, Mutear/Desmutear, Inyectar Contenido, ...</p>
     <p> - Opciones de control Bluetooth (*en pruebas)</p>
     <br>
-    <img style="height: 400px; width: auto; margin: 50px; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/castDrop.png" alt="castDrop.py">
-    <br>
     <hr>
     <br>
     <!-- cve_monitor.py -->
@@ -86,8 +83,6 @@ Here are some ideas to get you started:
     <p>⠀⠀ ・Comprueba que no estén ya registrados en la base de datos local</p>
     <p>⠀⠀ ・Muestra métricas del CVE y envía la alerta al ID de Telegram si está configurado</p>
     <p>⠀⠀ ・Guarda el CVE en la base de datos local</p>
-    <br>
-    <img style="height: 400px; width: auto; margin: 50px; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/cve_monitor.png" alt="cve_monitor.py">
     <br>
     <hr>
     <br>
@@ -103,7 +98,129 @@ Here are some ideas to get you started:
     <p>⠀⠀ ・Agregando un término al final (--Estilo --Tipo)</p>
     <p>⠀⠀ ・Numerando al principio del nombre, eliminando o no el nombre</p>
     <p>⠀⠀ ・Eliminando la numeración del principio</p>
-    <img style="height: 350px; width: auto; margin: 50px; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/Name_cleaner.png" alt="Name_cleaner help">
+    <br>
+    <hr>
+    <br>
+    <!-- logFilter.sh -->
+    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/cmd-g.png" alt="Script" title="Shell-Scripts"></a>
+    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/logFilter" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/gnu-g.png" alt="logFilter.sh" title="logFilter.sh"></a>
+    <h4><a style="text-decoration: none;" href="https://github.com/dsevillaprog/logFilter" target="_blank">logFilter.sh</a></h4>
+    <p> - Extrae y procesa direcciones IPv4 del archivo Apache/access.log o de archivo de IPv4 únicas.</p>
+    <p>⠀⠀ ・Filtra las que contienen peticiones maliciosas y por país</p>
+    <p>⠀⠀ ・Las consulta con herramientas online: curl, dig, host, nslookup, ip-api, rdap, VirusTotal, ...</p>
+    <p>⠀⠀ ・Las consulta en listas de reputación de amenazas (DNSBL): Abuse, Spamhaus, Barracuda, DroneBL, Sorbs</p>
+    <p>⠀⠀ ・Las añade a listas de baneo en función de los resultados</p>
+    <br>
+    <hr>
+    <br>
+    <!-- curl_dump.sh -->
+    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/cmd-g.png" alt="Script" title="Shell-Scripts"></a>
+    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Shell-Scripts/curl_dump" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/gnu-g.png" alt="curl_dump.sh" title="curl_dump.sh"></a>
+    <img style="width: auto; height: 30px; margin: 1%; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/under_construction.png" alt="under_construction">
+    <h4><a style="text-decoration: none;" href="https://github.com/dsevillaprog/Shell-Scripts/curl_dump" target="_blank">curl_dump.sh</a></h4>
+    <p> - Descarga y extrae direcciones URL del código de una URL o de una lista.</p>
+    <p>⠀⠀ ・Descarga con curl las URL's</p>
+    <p>⠀⠀ ・Extrae las URL's del código de cada URL</p>
+    <p>⠀⠀ ・Vuelve a realizar el proceso</p>
+    <br>
+    <hr>
+    <br>
+    <!-- Media_converter.sh / .py -->
+    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/cmd-g.png" alt="Script" title="Shell-Scripts"></a>
+    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Media_converter.sh" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/gnu-g.png" alt="Media_converter.sh" title="Media_converter.sh"></a>
+    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Media_converter.py" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/python.png" alt="Python" title="Media_converter.py"></a>
+    <h4><a style="text-decoration: none;" href="https://github.com/dsevillaprog/Media_converter.sh" target="_blank">Media_converter.sh</a><a href="https://github.com/dsevillaprog/Media_converter.py" target="_blank"> / .py</a></h4>
+    <p> - Cambia el formato de archivos multimedia con ffmpeg.</p>
+    <p> - Convierte uno o todos los formatos de los archivos de la ruta de trabajo al formato elegido en una nueva carpeta.</p>
+    <p> - Convierte a formatos de codecs soportados por ffmpeg (aac, ac3, dts, flac, mp3, mpeg4, webp, ...).</p>
+    <br>
+    <hr>
+    <br>
+    <!-- DShtb.sh -->
+    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/cmd-g.png" alt="Script" title="Shell-Scripts"></a>
+    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/DShtb" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/gnu-g.png" alt="DShtb.sh" title="DShtb.sh"></a>
+    <h4><a style="text-decoration: none;" href="https://github.com/dsevillaprog/DShtb" target="_blank">DShtb.sh</a></h4>
+    <p> - Aplicación con múltiples herramientas de análisis y auditoría.</p>
+    <p> - Agiliza el reconocimiento y explotación de máquinas en HackTheBox, VulnHub, etc.</p>
+    <p> - Crea un objetivo, filtra y guarda los datos obtenidos, ejecuta herramientas y genera reportes.</p>
+    <p> - Integra: nmap, dirb, ffuf, gobuster, nikto, nuclei, wpscan, sqlmap, smbclient, cewl, crunch, msfconsole, ...</p>
+    <br>
+    <hr>
+    <br>
+    <!-- img_convert.sh -->
+    <img style="width: auto; height: 30px; margin: 1%; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/cmd-g.png" alt="Script">
+    <img style="width: auto; height: 30px; margin: 1%; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/gnu-g.png" alt="img_convert.sh">
+    <img style="width: auto; height: 30px; margin: 1%; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/under_construction.png" alt="under_construction">
+    <h4>img_convert.sh</h4>
+    <p> - Recorta, redimensiona, cambia de formato, y aplica múltiples filtros y efectos a las imágenes de una carpeta.</p>
+    <p> - Convierte Imágenes con ImageMagick.</p>
+    <p> - Modifica metadatos con Exiftool.</p>
+    <br>
+    <hr>
+    <br>
+    <!-- Sed_loop-R.sh -->
+    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/cmd-g.png" alt="Script" title="Shell-Scripts"></a>
+    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Shell-Scripts/Sed_loop-R" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/gnu-g.png" alt="Sed_lopp-R.sh" title="Sed_loop-R.sh"></a>
+    <h4><a style="text-decoration: none;" href="https://github.com/dsevillaprog/Shell-Scripts/Sed_loop-R" target="_blank">Sed_loop-R.sh</a></h4>
+    <p> - Función de "Buscar y Reemplazar" recursiva para todos los archivos de una o varias extensiones dentro de la ruta de trabajo.</p>
+    <p> - Elije una extensión o modifica recursivamente todo un proyecto web (.html, .css y .js).</p>
+    <p>⠀⠀ ・Ejemplo, añadir la clase "mi-clase" a todas las etiquetas ul sin atributos:</p>
+    <p>⠀⠀ ⠀ Buscar: <strong>&#60;ul></strong></p>
+    <p>⠀⠀ ⠀ Cambiar:<strong>&#60;ul class="mi-clase"></strong></p>
+    <p>⠀⠀ ・Ejemplo:</p>
+    <p>⠀⠀ ⠀ Cambiar lang="es-ES" por lang="en"</p>
+    <p>⠀⠀ ⠀ Cambiar dsevillaprog por RandomUser</p>
+    <br>
+    <hr>
+    <br>
+    <!-- Roli-Sounds .sh / .html -->
+    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/cmd-g.png" alt="Script" title="Shell-Scripts"></a>
+    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Roli-Sounds" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/gnu-g.png" alt="Roli-Sounds.sh" title="Roli-Sounds.sh"></a>
+    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Curso-Formularios/Ejercicio6/index.html" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/logo-html.png" alt="Roli-Sounds.html" title="Roli-Sounds.html"></a>
+    <img style="width: auto; height: 30px; margin: 1%; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/under_construction.png" alt="under_construction">
+    <h4><a style="text-decoration: none;" href="https://github.com/dsevillaprog/Roli-Sounds" target="_blank">Roli-Sounds.sh</a><a style="text-decoration: none;" href="https://github.com/dsevillaprog/Curso-Formularios/Ejercicio6/index.html" target="_blank"> / .html</a></h4>
+    <p> - Base de datos personalizada de sonidos del teclado Roland GO:Keys.</p>
+    <p> - Clasifica y busca sonidos por: Tipo, Estilo, Cualidad, Efecto, Favorito, etc.</p>
+    <p> - Busca sonidos por una o varias cualidades: EP, delay:h, sustain:l, phaser, bass-fx, Soul, Rock, ...</p>
+    <p> - Crea/busca/modifica listas de estilos/cualidades.</p>
+    <br>
+    <hr>
+    <br>
+    <!-- VR-D2Pro Circuit Bending -->
+    <img style="width: auto; height: 30px; margin: 1%; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/logo-circuit.png" alt="Circuit Bending">
+    <h4>Eachine VR-D2Pro Circuit Bending</h4>
+    <p> - Modificación de la electrónica de las gafas de FPV Eachine VR-D2Pro.</p>
+    <p> - Se le añaden conectores de entrada de video RCA y salida de audio Jack 3.5.</p>
+    <br>
+    <hr>
+    <br>
+    <!-- Casio SA-1 Circuit Bending -->
+    <img style="width: auto; height: 30px; margin: 1%; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/logo-circuit.png" alt="Circuit Bending">
+    <h4>Casio SA-1 Circuit Bending </h4>
+    <p> - Modificación de la electrónica del teclado Casio SA-1.</p>
+    <p> - Se le añaden switch de octavas y 3 niveles de reverb base con modulación mediante LDR.</p>
+    <br>
+    <hr>
+    <br>
+    <!-- Alarma GSM - Arduino -->
+    <img style="width: auto; height: 30px; margin: 1%; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/arduino-logo.jpg" alt="Alarma_GSM.ino">
+    <h4>Alarma_GSM.ino</h4>
+    <p> - Alarma realizada en Arduino con comunicación por módulo GSM.</p>
+    <p> - Permite conectar multitud de sensores y actuadores para su monitorización y control, accesos, presencia, niveles, tensiones, GPS, relés, contactores, ...</p>
+    <p> - Avisa mediante llamadas/sms a una lista números en el orden definido.</p>
+    <p> - Monitoriza/Activa mediante sms y/o llamadas los sensores/actuadores conectados.</p>
+    <br>
+    <hr>
+    <br>
+    <!-- Autotube.sh -->
+    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/cmd-g.png" alt="Script" title="Shell-Scripts"></a>
+    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Autotube" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 8px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/gnu-g.png" alt="Autotube.sh" title="Autotube.sh"></a>
+    <h4><a style="text-decoration: none;" href="https://github.com/dsevillaprog/Autotube" target="_blank">Autotube.sh</a></h4>
+    <p> - Reproduce listas de Youtube y Spotify en bucle cambiando de IP.</p>
+    <p> - Conecta con un servidor VPN e inicia un bucle de reproducción:</p>
+    <p>⠀⠀ ・Reproduce con firefox los links de una o varias listas</p>
+    <p>⠀⠀ ・Hace una pausa personalizada para registrar la visualización</p>
+    <p>⠀⠀ ・Cambia de servidor VPN para renovar la IP</p>
     <br>
     <hr>
     <br>

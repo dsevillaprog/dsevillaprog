@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 <p> - Laboratorios de pruebas y retos simulando entornos reales.</p>
 <p> - He realizado todas las máquinas gratuitas de nivel fácil, y varios retos Sherlock, estoy empezando el nivel medio.</p>
 <br>
-<div style:"display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around; height: 400px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px">
-    <img style="height: 400px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_machines.png" alt="htb machines">
-    <img style="height: 400px; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_streak.png" alt="htb streak">
+<div style:"display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around;">
+    <img style="height: 400px; display: flex; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_machines.png" alt="htb machines">
+    <img style="height: 400px; display: flex; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_streak.png" alt="htb streak">
 </div>
 <hr>
 <h2 style="display: flex; flex-direction: column; padding: 5%; color: rgb(241, 233, 247); text-shadow: #aeacaf;">Proyectos Personales</h2>
@@ -72,6 +72,6 @@ Here are some ideas to get you started:
 <p> - Opciones de control multimedia: Pausar/Reanudar, Forzar Cierre, Subir/Bajar Volumen, Mutear/Desmutear, Inyectar Contenido, ...</p>
 <p> - Opciones de control Bluetooth (*en pruebas)</p>
 <br>
-<img style="height: 300px; width: auto; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/castDrop.png" alt="castDrop.py">
-<img style="height: 300px; width: auto; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/castDrop-1.png" alt="castDrop.py">
+<img style="height: 300px; width: auto; margin: 50px; border-radius: 6px; justify-content: space-around;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/castDrop.png" alt="castDrop.py">
+<img style="height: 300px; width: auto; margin: 50px; border-radius: 6px; justify-content: space-around;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/castDrop-1.png" alt="castDrop.py">
 <br>

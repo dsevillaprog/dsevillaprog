@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <div style="display: flex; align-items: center; justify-items: center justify-content: space-around;">
     <p style="font-size: 1.1rem; line-height: 2rem; margin: auto; text-align: center; color: #1d1753;">Programador autodidacta; comencé a programar con scripts en Batch y Visual Basic muy simples para Windows, de ahí pasé a proyectos de Arduino, y desde hace unos años realizo programas y scripts en Bash para Linux, actualmente estoy aprendiendo Python.<br>Decidí instalar Linux porque siempre tuve curiosidad por probar un sistema operativo de código abierto, y, ahora que sabía algo de programación, podía crear y personalizar herramientas a mi gusto. Seguí varios libros de programación en Bash, realicé muchos de los ejercicios, pero siempre me atascaba en algún punto y acababa por buscar la información por otros medios. Fué así como descubrí y me empezó a interesar el campo de la Ciberseguridad, ya que el mejor contenido que encontré para programar en Bash y aprender sobre Linux estaba enfocado al Hacking Ético y a la Ciberseguridad.</p>
     <hr>
@@ -35,6 +34,8 @@ Here are some ideas to get you started:
         <img style="height: auto; width: 350; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/bandit.png" alt="overthewire-bandit">
     </div>
     <br>
+    <hr>
+    <br>
     <!-- OverTheWire - Natas -->
     <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/cmd-g.png" alt="Script">
     <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/gnu-g.png" alt="Linux">
@@ -47,6 +48,8 @@ Here are some ideas to get you started:
         <img style="height: auto; width: 350; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/natas.png" alt="overthewire-natas">
     </div>
     <br>
+    <hr>
+    <br>
     <!-- HackTheBox -->
     <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/cmd-g.png" alt="Script">
     <img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/img/gnu-g.png" alt="Linux">
@@ -57,9 +60,11 @@ Here are some ideas to get you started:
     <p> - He realizado todas las máquinas gratuitas de nivel fácil, y varios retos Sherlock, estoy empezando el nivel medio.</p>
     <br>
     <div style:"display: flex; align-items: center; justify-content: space-around;">
-        <img style="height: auto; width: 350; display: flex; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_machines.png" alt="htb machines">
-        <img style="height: auto; width: 400; display: flex; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_streak.png" alt="htb streak">
+        <img style="height: auto; width: 300; display: flex; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_machines.png" alt="htb machines">
+        <img style="height: 300; width: auto; display: flex; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_streak.png" alt="htb streak">
     </div>
+    <hr>
+    <br>
     <h2>Proyectos Personales</h2>
     <!-- castDrop.py -->
     <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Shell-Scripts/castDrop" target="_blank"><img style="width: auto; height: 30px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/python.png" alt="Python" title="castDrop.py"></a>
@@ -73,7 +78,7 @@ Here are some ideas to get you started:
     <p> - Opciones de control multimedia: Pausar/Reanudar, Forzar Cierre, Subir/Bajar Volumen, Mutear/Desmutear, Inyectar Contenido, ...</p>
     <p> - Opciones de control Bluetooth (*en pruebas)</p>
     <br>
-    <img style="height: 350px; width: auto; margin: 50px; border-radius: 6px; justify-content: space-around;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/castDrop.png" alt="castDrop.py">
+    <img style="height: auto; width: 350px; margin: 50px; border-radius: 6px; justify-content: space-around;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/castDrop.png" alt="castDrop.py">
     <br>
     <hr>
     <br>

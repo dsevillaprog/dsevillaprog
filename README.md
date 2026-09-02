@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 <div style="display: flex; align-items: center; justify-content: space-around;">
     <p style="font-size: 1.1rem; line-height: 2rem; margin: auto; text-align: center; color: #1d1753;">Programador autodidacta; comencé a programar con scripts en Batch y Visual Basic muy simples para Windows, de ahí pasé a proyectos de Arduino, y desde hace unos años realizo programas y scripts en Bash para Linux, actualmente estoy aprendiendo Python.<br>Decidí instalar Linux porque siempre tuve curiosidad por probar un sistema operativo de código abierto, y, ahora que sabía algo de programación, podía crear y personalizar herramientas a mi gusto. Seguí varios libros de programación en Bash, realicé muchos de los ejercicios, pero siempre me atascaba en algún punto y acababa por buscar la información por otros medios. Fué así como descubrí y me empezó a interesar el campo de la Ciberseguridad, ya que el mejor contenido que encontré para programar en Bash y aprender sobre Linux estaba enfocado al Hacking Ético y a la Ciberseguridad.</p>
     <hr>
@@ -29,7 +31,7 @@ Here are some ideas to get you started:
     <br>
     <p> - La primera vez que lo completé, en la mayoría de niveles necesité seguir Writeups para conseguir las Flag,</p>
     <p> un par de años más tarde, y tras hacer varios laboratorios de <a href="https://www.hackthebox.com/">HackTheBox</a>, conseguí llegar al nivel 22 sin ayuda.</p>
-    <div style:"display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around;">
+    <div style:"display: flex; align-items: center; justify-content: space-around;">
         <img style="height: auto; width: 350; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/bandit.png" alt="overthewire-bandit">
     </div>
     <br>
@@ -54,7 +56,10 @@ Here are some ideas to get you started:
     <p> - Laboratorios de pruebas y retos simulando entornos reales.</p>
     <p> - He realizado todas las máquinas gratuitas de nivel fácil, y varios retos Sherlock, estoy empezando el nivel medio.</p>
     <br>
-    <div style:"display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around;"><img style="height: auto; width: 350; display: flex; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_machines.png" alt="htb machines"><img style="height: auto; width: 400; display: flex; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_streak.png" alt="htb streak"></div>
+    <div style:"display: flex; align-items: center; justify-content: space-around;">
+        <img style="height: auto; width: 350; display: flex; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_machines.png" alt="htb machines">
+        <img style="height: auto; width: 400; display: flex; align-items: center; justify-content: space-around; margin: 20px auto; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/htb_streak.png" alt="htb streak">
+    </div>
     <hr>
     <h2>Proyectos Personales</h2>
     <!-- castDrop.py -->
@@ -69,34 +74,6 @@ Here are some ideas to get you started:
     <p> - Opciones de control multimedia: Pausar/Reanudar, Forzar Cierre, Subir/Bajar Volumen, Mutear/Desmutear, Inyectar Contenido, ...</p>
     <p> - Opciones de control Bluetooth (*en pruebas)</p>
     <br>
-    <img style="height: auto; width: 400; margin: 50px; border-radius: 6px; justify-content: space-around;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/castDrop.png" alt="castDrop.py">
-    <br>
-    <!-- cve_monitor.py -->
-    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/cve_monitor" target="_blank"><img style="width: 25px; height: 25px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/python.png" alt="Python" title="cve_monitor.py"></a>
-    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img style="width: 25px; height: 25px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script" title="Shell-Scripts"></a>
-    <h4><a style="text-decoration: none;" href="https://github.com/dsevillaprog/cve_monitor" target="_blank">cve_monitor.py / cve_monitor_LIST.py</a></h4>
-    <p> - Aplicación/bot de consulta y filtrado de alertas de seguridad (CVE).</p>
-    <p> - Puede funcionar integrando un bot de Telegram o por consola.</p>
-    <p>⠀⠀ ・Busca *linux en los últimos CVE modificados en nist.gov (cve_monitor_LIST.py: busca iterando sobre listas definidas)</p>
-    <p>⠀⠀ ・Busca si disponen de parche y/o exploit</p>
-    <p>⠀⠀ ・Comprueba que no estén ya registrados en la base de datos local</p>
-    <p>⠀⠀ ・Muestra métricas del CVE y envía la alerta al ID de Telegram si está configurado</p>
-    <p>⠀⠀ ・Guarda el CVE en la base de datos local</p>
-    <br>
-    <img style="height: auto; width: 400; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/cve_monitor.png" alt="cve_monitor.py">
-    <br>
-    <!-- Name_cleaner.sh / .py -->
-    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Shell-Scripts/" target="_blank"><img style="width: 25px; height: 25px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/cmd.png" alt="Script" title="Shell-Scripts"></a>
-    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Name_cleaner.sh" target="_blank"><img style="width: 25px; height: 25px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/gnu.png" alt="Name_cleaner.sh" title="Name_cleaner.sh"></a>
-    <a style="text-decoration: none;" href="https://github.com/dsevillaprog/Name_cleaner.py" target="_blank"><img style="width: 25px; height: 25px; margin: 1%; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/python.png" alt="Python" title="Name_cleaner.py"></a>
-    <h4><a style="text-decoration: none;" href="https://github.com/dsevillaprog/Name_cleaner.sh" target="_blank">Name_cleaner.sh</a><a href="https://github.com/dsevillaprog/Name_cleaner.py" target="_blank"> / .py</a></h4>
-    <p> - Borra / Renombra / numera por tipos los archivos de una carpeta.</p>
-    <p> - Edita los metadatos si son compatibles con Exiftool.</p>
-    <p> - Renombra todos los archivos de una carpeta:
-    <p>⠀⠀ ・Borrando o cambiando una parte en común (www.descargas.com, Album-Hits 2025)</p>
-    <p>⠀⠀ ・Agregando un término al final (--Estilo --Tipo)</p>
-    <p>⠀⠀ ・Numerando al principio del nombre, eliminando o no el nombre</p>
-    <p>⠀⠀ ・Eliminando la numeración del principio</p>
-    <img style="height: auto; width: 400; margin: 50px; border-radius: 6px;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/Name_cleaner.png" alt="Name_cleaner help">
+    <img style="height: 350px; width: auto; margin: 50px; border-radius: 6px; justify-content: space-around;" src="https://github.com/dsevillaprog/CURSO-CSS/blob/main/Ejercicio2/img/castDrop.png" alt="castDrop.py">
     <br>
 </div>
